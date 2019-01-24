@@ -34,9 +34,9 @@
 
 ## 界面一览
 
-<img src='./preview/git.png' style="width:45%;padding-right:10px" >
-<img src='./preview/plugins.png' style="width:45%;" >
-  
+![](./preview/search.gif)
+![](./preview/git.png)
+![](./preview/plugins.png)
   
 [码云]:gitee.com
 [Alfred]:www.alfredapp.com
