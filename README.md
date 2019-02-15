@@ -1,4 +1,6 @@
 ## Gitee Help Searcher for Alfred Workflow
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnormal-coder%2FGitee-Help-Searcher-for-Alfred-Workflow.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnormal-coder%2FGitee-Help-Searcher-for-Alfred-Workflow?ref=badge_shield)
+
 
 <div>
 	<img src='./icon.png' style="width:30px;align:center;" >
@@ -41,3 +43,6 @@
 [码云]:gitee.com
 [Alfred]:www.alfredapp.com
 [Node.js]:https://nodejs.org
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnormal-coder%2FGitee-Help-Searcher-for-Alfred-Workflow.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnormal-coder%2FGitee-Help-Searcher-for-Alfred-Workflow?ref=badge_large)
